@@ -1,6 +1,6 @@
 ---
 templateKey: templates/blog-post
-slug: english post
+slug: english-post
 language: en
 contentType: |-
   # blog
